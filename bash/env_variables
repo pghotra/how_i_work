@@ -1,0 +1,1 @@
+export BUNDLER_EDITOR='open -a /Applications/MacVim.app'
